@@ -1,2 +1,2 @@
-# PythonVize
-Python Vize Ödevi
+# PythonFinal
+Python final 
